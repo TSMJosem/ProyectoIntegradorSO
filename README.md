@@ -16,7 +16,7 @@ Simulador educativo que permite crear, planificar y gestionar procesos, recursos
 Sexto semestre de 2025
 
 5. PROFESOR(ES)
-Muñoz Quintero Dante Alfonso
+Muñoz Quintero Dante Adolfo
 
 6. INTEGRANTES DEL EQUIPO
 - Aguilar Gómez Lesly Dariana
